@@ -3,7 +3,7 @@ import * as THREE from 'three';
 // const canvas = document.querySelector('#webgl');
 
 // Definisci il numero di immagini nel collage
-const numImages = 14;
+const numImages = 3;
 
 // Inizializza la scena, la camera e il renderer
 const scene = new THREE.Scene();
